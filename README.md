@@ -14,14 +14,7 @@ Admin Control Panel to Manage Instructors and Sessions.
 CRUD operations allowed to the Admin.
 ![Update](https://user-images.githubusercontent.com/109679563/180609845-872d5af5-d177-4ab2-9964-62963bef39be.png)
 
-Instructor Control Panel
-![Instructor Panel](https://user-images.githubusercontent.com/109679563/180609848-b2983e74-ae67-474b-a7b1-831c7937619d.png)
 
-Sessions Panel - to match the instructors with the students. (Admin View)
-![Sessions Panel](https://user-images.githubusercontent.com/109679563/180609841-453ac41d-b1f7-4fa1-a119-4e93fd102207.png)
-
-Sessions Panel - Assigning Instructors
-![Assign Instructor](https://user-images.githubusercontent.com/109679563/180609837-e1c5e928-3f55-4af9-950a-efbb367c130e.png)
 
 
 

@@ -1,4 +1,4 @@
-# Python-tkinter-Project
+# Student Data management
 A small CRUD system for a test Dance Academy using tkinter in Python. 
 Here,
 - Admins can perform CRUD operations on the instructors as well as sessions. 

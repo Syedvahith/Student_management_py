@@ -15,7 +15,6 @@ CRUD operations allowed to the Admin.
 ![Update](https://user-images.githubusercontent.com/109679563/180609845-872d5af5-d177-4ab2-9964-62963bef39be.png)
 
 
-For more:https://github.com/Syedvahith
-
+For more:https://github.com/Syedvahith/Student_management_py
 
 
